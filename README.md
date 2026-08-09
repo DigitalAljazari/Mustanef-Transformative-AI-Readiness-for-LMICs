@@ -28,8 +28,8 @@ The Arabic word **مستأنف** carries the sense of beginning anew, resuming w
 
 Digital Al-Jazari’s public engagement on artificial intelligence has been active since 2025. This repository distinguishes completed activities and documented evidence from future strategic directions.
 
+- [Arabic Overview | التعريف العربي](ARABIC_OVERVIEW.md)
 - [Track Record 2025–2026](TRACK_RECORD_2025_2026.md)
-- - [Arabic Overview | التعريف العربي](ARABIC_OVERVIEW.md)
 - [Public Dialogue](PUBLIC_DIALOGUE.md)
 - [Media Coverage](MEDIA_COVERAGE.md)
 - [ANAwAI](ANAwAI.md)
