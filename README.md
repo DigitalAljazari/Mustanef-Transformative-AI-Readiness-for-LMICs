@@ -33,7 +33,9 @@ Digital Al-Jazari’s public engagement on artificial intelligence has been acti
 - [Public Dialogue](PUBLIC_DIALOGUE.md)
 - [Media Coverage](MEDIA_COVERAGE.md)
 - [ANAwAI](ANAwAI.md)
+-   [Image Evidence and Captions](IMAGE_CAPTIONS.md)
 - [Strategic Roadmap 2026–2030](STRATEGIC_ROADMAP_2026_2030.md)
+
 
 ## Status
 
