@@ -37,7 +37,11 @@ Digital Al-Jazari’s public engagement on artificial intelligence has been acti
 -   [Image Evidence and Captions](IMAGE_CAPTIONS.md)
 - [Strategic Roadmap 2026–2030](STRATEGIC_ROADMAP_2026_2030.md)
 
+## Strategic Horizon: 2026–2030 and Beyond
 
+Mustanef is designed as a long-term initiative extending through 2030 and beyond. During this period, it will progressively develop research, readiness frameworks, policy dialogue, public learning, partnerships, and locally grounded approaches to transformative-AI preparedness in low- and middle-income countries.
+
+The roadmap is adaptive rather than fixed. Its milestones will evolve in response to technological developments, emerging evidence, partnerships, available resources, and the needs of participating communities and institutions.
 ## Status
 
 Mustanef is an active Digital Al-Jazari initiative with an established public-engagement record. Future research, policy, and expansion milestones remain subject to partnerships and resources.
